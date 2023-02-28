@@ -1,5 +1,5 @@
 ---
-title: Accueil
+title: Essai site Scribouilli
 ---
 # L'Échappée Belle
 
